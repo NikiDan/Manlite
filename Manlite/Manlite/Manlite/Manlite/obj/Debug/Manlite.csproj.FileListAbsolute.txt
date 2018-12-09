@@ -1,0 +1,11 @@
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\bin\Debug\Manlite.exe.config
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\bin\Debug\Manlite.exe
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\bin\Debug\Manlite.pdb
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\obj\Debug\Manlite.csprojResolveAssemblyReference.cache
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\obj\Debug\Manlite.Form1.resources
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\obj\Debug\Manlite.Properties.Resources.resources
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\obj\Debug\Manlite.Resource1.resources
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\obj\Debug\Manlite.csproj.GenerateResource.cache
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\obj\Debug\Manlite.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\obj\Debug\Manlite.exe
+D:\Программирование\C#\Manlite\Manlite\Manlite\Manlite\obj\Debug\Manlite.pdb
