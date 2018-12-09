@@ -51,7 +51,7 @@
             this.scoreLabel.Font = new System.Drawing.Font("Mistral", 19.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.scoreLabel.Location = new System.Drawing.Point(12, 9);
             this.scoreLabel.Name = "scoreLabel";
-            this.scoreLabel.Size = new System.Drawing.Size(34, 41);
+            this.scoreLabel.Size = new System.Drawing.Size(33, 39);
             this.scoreLabel.TabIndex = 0;
             this.scoreLabel.Text = "0";
             // 

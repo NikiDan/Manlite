@@ -15,7 +15,7 @@ namespace Manlite
 
         public Bitmap handlerTexure = Resource1.Handler,
                       targetTexure = Resource1.Target;
-        private Point _targetPosition =new Point(300,300);
+        private Point _targetPosition = new Point(300, 300);
         private Point _direction = Point.Empty;
         private int _score = 0;
         public Form1()
@@ -50,21 +50,21 @@ namespace Manlite
 
             var LocalPosition = this.PointToClient(Cursor.Position);
 
-            _targetPosition.X += _direction.X*7;
-            _targetPosition.Y += _direction.Y*7;
+            _targetPosition.X += _direction.X * 7;
+            _targetPosition.Y += _direction.Y * 7;
 
             if (_targetPosition.X < 0 ||
                 _targetPosition.X > 500)
-                
+
             {
-                _direction.X*= -1;
-                
+                _direction.X *= -1;
+
             }
 
             if (_targetPosition.Y < 0 ||
                 _targetPosition.Y > 500)
             {
-                _direction.Y*=-1;
+                _direction.Y *= -1;
             }
 
             Point between = new Point(LocalPosition.X - _targetPosition.X,
@@ -76,7 +76,7 @@ namespace Manlite
             {
                 AddScore(1);
             }
-            
+
             var handlerRect = new Rectangle(LocalPosition.X - 50, LocalPosition.Y - 50, 100, 100);
             var targetRect = new Rectangle(_targetPosition.X - 50, _targetPosition.Y - 50, 100, 100);
             g.DrawImage(handlerTexure, handlerRect);
